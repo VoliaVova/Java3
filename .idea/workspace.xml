@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="304" />
+    <option name="y" value="104" />
+    <option name="width" value="1052" />
+    <option name="height" value="753" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544219888956" />
+  </component>
+  <component name="RunManager">
+    <configuration name="slide55.openGoogle" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Slide55" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Slide55.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Slide55" />
+      <option name="MAIN_CLASS_NAME" value="Slide55.slide55" />
+      <option name="METHOD_NAME" value="openGoogle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.slide55.openGoogle" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
